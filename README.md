@@ -7,3 +7,9 @@ IURY CANEDO ANABUKI
 LUCAS DE JESUS BATISTA GONÇALVES
 LUIZ YOKOYAMA FELIX DE SOUZA
 VICTOR TAVARES PONTES
+
+INSTUÇÕES DE USO:
+- Usar o script para criar as tabelas no postgresql
+- Executar o servidor java, usando o arquivo ServidorBanco
+- Executar o cliente java, usando o arquivo ClienteBanc
+
