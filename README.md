@@ -20,7 +20,7 @@ para senha criptografada:
 
 host all all 0.0.0.0/0  md5 
 
-para senha não criptografada
+para senha não criptografada:
 
 host all all 0.0.0.0/0  trust 
 
