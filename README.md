@@ -17,9 +17,11 @@ INSTRUÇÕES PARA CONFIGURAR O POSTGRESQL PARA ACEITAR CONEXÕES EXTERNAS:
 adicionar a seguinte linha no arquivo ..\Program Files\PostgreSQL\11\data\pg_hba.conf
 
 para senha criptografada:
+
 host all all 0.0.0.0/0  md5 
 
 para senha não criptografada
+
 host all all 0.0.0.0/0  trust 
 
 no arquivo postgresql.conf 
